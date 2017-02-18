@@ -1,4 +1,4 @@
-# Use new trusty images, should yield newer compilers and packages
+# Use new trusty images, should yield newer compilers and packages  mod by rod
 sudo: required
 dist: precise
 language: cpp
